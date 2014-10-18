@@ -11,38 +11,27 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Gabi Carpenter
+  pic: gabi_carpenter
+  position: Director and Producer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: "https://twitter.com/gabicarpenter"
+    - title: at
+      url:  "mailto:gabi@lucky-llama.com"
+    - title: youtube
+      url: "https://www.youtube.com/user/GabiCarpenter/videos?flow=grid&view=0"
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Matt Bostock
+  pic: matt_bostock
+  position: Web Consultant
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: "https://twitter.com/mattbostock"
+    - title: at
+      url:  "mailto:matt@lucky-llama.com"
+    - title: github
+      url: "https://github.com/mattbostock"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
